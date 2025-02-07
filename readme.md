@@ -125,7 +125,6 @@ image-processing-api/
 │       ├── __init__.py
 │       └── config.py
 ├── requirements.txt
-├── init_db.py
 └── README.md
 ```
 
